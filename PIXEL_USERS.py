@@ -1,3 +1,8 @@
+'''
+takes JSON data representing working hours and additional employee details, 
+processes the data, and generates a new JSON output that includes the employee's working hours along with their other details.
+'''
+
 import json
 
 # Sample JSON data provided
